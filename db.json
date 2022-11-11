@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "category": "phone",
+      "title": "Apple",
+      "model": "XR",
+      "description": "iPhone XR получил новый дисплей Liquid Retina, который считается самым продвинутым в линейке Apple .Он несет в себе самые передовые технологии. Отличается инновационными технологиями подсветки, реалистичными цветами и закругленными углами.",
+      "color": "red",
+      "price": 35000,
+      "img1": "https://www.myphone.kg/files/media/8/8463.jpg",
+      "img2": "https://www.myphone.kg/files/media/8/8461.jpg",
+      "img3": "https://www.myphone.kg/files/media/8/8462.jpg",
+      "id": 1
+    },
+    {
+      "category": "phone",
+      "title": "Samsung",
+      "model": "A30",
+      "description": "Galaxy A30 отличается тонким, но прочным корпусом толщиной 7,7 мм с глянцевым покрытием, приятным на ощупь. Переверните его, и вы увидите скрытый датчик отпечатков пальцев и заднюю 3D-панель из стеклопластика, которые дополняют элегантный премиальный дизайн Galaxy A30. Выберите аскетичный белый или черный цвет корпуса либо решитесь на яркий красный или синий. ",
+      "color": "black",
+      "price": 25000,
+      "img1": "https://stg-images.samsung.com/is/image/samsung/pk-galaxy-a30-a305-sm-a305fzwfpak-frontwhite-thumb-152051809",
+      "img2": "https://stg-images.samsung.com/is/image/samsung/pk-galaxy-a30-a305-sm-a305fzwfpak-frontwhite-thumb-152051809",
+      "img3": "https://stg-images.samsung.com/is/image/samsung/pk-galaxy-a30-a305-sm-a305fzwfpak-frontwhite-thumb-152051809",
+      "id": 2
+    },
+    {
+      "category": "watch",
+      "title": "Apple",
+      "model": "7 series",
+      "description": "Уведомления о слишком низком и высоком пульсе  Уведомления о нерегулярном ритме сердца4  Экстренный вызов — SOS5  Функция обнаружения падения",
+      "color": "Black",
+      "price": 30000,
+      "img1": "https://login.kg/image/catalog/new/Aksessuary/Apple/Chasy/Apple%20Watch%20Series%205%2044mm/1.jpg",
+      "img2": "https://www.apple.com/ru/watch/images/meta/gps/og__n5qzveqr596m.png",
+      "img3": "https://login.kg/image/catalog/new/Aksessuary/Apple/Chasy/Apple%20Watch%20Series%205%2044mm/1.jpg",
+      "id": 3
+    },
+    {
+      "category": "phone",
+      "title": "qwert",
+      "model": "asdf",
+      "description": "asdf",
+      "color": "sdfgb",
+      "price": 45678,
+      "img1": "dasd",
+      "img2": "asd",
+      "img3": "asds",
+      "id": 4
+    },
+    {
+      "category": "laptop",
+      "title": "Asus",
+      "model": "AsRock",
+      "description": "786",
+      "color": "76",
+      "price": 10000,
+      "img1": "87678",
+      "img2": "67",
+      "img3": "676",
+      "id": 5
+    },
+    {
+      "category": "laptop",
+      "title": "Apple",
+      "model": "MacBook Air m1",
+      "description": "Уведомления о слишком низком и высоком пульсе  Уведомления о нерегулярном ритме сердца4  Экстренный вызов — SOS5  Функция обнаружения падения",
+      "color": "Black",
+      "price": 30000,
+      "img1": "https://login.kg/image/catalog/new/Aksessuary/Apple/Chasy/Apple%20Watch%20Series%205%2044mm/1.jpg",
+      "img2": "https://www.apple.com/ru/watch/images/meta/gps/og__n5qzveqr596m.png",
+      "img3": "https://login.kg/image/catalog/new/Aksessuary/Apple/Chasy/Apple%20Watch%20Series%205%2044mm/1.jpg",
+      "id": 6
+    },
+    {
+      "category": "phone",
+      "title": "asus",
+      "model": "sdafg",
+      "description": "sdfghn",
+      "color": "sdfgh",
+      "price": 124565,
+      "img1": "rewr",
+      "img2": "dsfsdf",
+      "img3": "sdfsdf",
+      "id": 7
+    },
+    {
+      "category": "phone",
+      "title": "asus",
+      "model": "sdafg",
+      "description": "sdfghn",
+      "color": "sdfgh",
+      "price": 124565,
+      "img1": "rewr",
+      "img2": "dsfsdf",
+      "img3": "sdfsdf",
+      "id": 8
+    },
+    {
+      "category": "phone",
+      "title": "asus",
+      "model": "sdafg",
+      "description": "sdfghn",
+      "color": "sdfgh",
+      "price": 124565,
+      "img1": "rewr",
+      "img2": "dsfsdf",
+      "img3": "sdfsdf",
+      "id": 9
+    }
+  ]
+}
